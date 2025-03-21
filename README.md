@@ -139,7 +139,8 @@ Get your test API keys:
 ![Logo](https://raw.githubusercontent.com/AzharKhemta/DemoClient/refs/heads/main/Stripe%20payment.gif)
 ## Authors
 
-- [@DracoArts](https://github.com/orgs/DracoArts)
+- [@MirHamzaHasan](https://github.com/MirHamzaHasan)
+- [@WebSite](https://mirhamzahasan.com)
 
  - 
 
