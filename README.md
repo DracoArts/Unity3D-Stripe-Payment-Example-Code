@@ -72,8 +72,8 @@ Get your test API keys:
 
 ## Usage/Examples
      // Replace with your Stripe keys
-    private const string PrivateKey = "sk_test_51R1kPCGxtmqQP5vA9ELpji0ytMzF3119MGnKbFNrtcemG3GEsVZdA3BIgWqbkAFb9zfLYQbl8CtAAQ2sdoadz9YD00OnGCmqfI";
-    private const string PublishableKey = "pk_test_51R1kPCGxtmqQP5vAGDGhFhf7Ff6gXMpaBtLWc01MF9xOatgGefyQirwLJPWWDqGgTRpzXi2Y9YUI1d9p5vgQYOpA00UdKFRSS9";
+    private const string PrivateKey = "PRIVATE_KEY";
+    private const string PublishableKey = "PUBLISHABLE_KEY";
 
 
     public void GetToken()
